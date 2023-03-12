@@ -4,6 +4,7 @@ import ContainerBlock from "../components/ContainerBlock";
 import Present from "../components/Presentpage";
 import { useEffect, useState } from "react";
 import styles from "../styles/Home.module.css";
+import Image  from "next/image"
 
 export default function Projects() {
   const [data, setData] = useState([""]);
