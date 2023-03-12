@@ -15,6 +15,7 @@ export default function Present() {
                 alt="avatar"
                 className=" shadow rounded-full justify-center ml-2"
               />
+              
               <div className="flex flex-row justify-between mt-4 ml-5">
                 <div className="flex flex-row space-x-4  text-stone-50">
                   <h1 className="font-mono text-lg">Tadao Ando</h1>
