@@ -30,6 +30,7 @@ export default function Projects() {
                     src={`${resultat.image}`}
                     alt="Sunset in the mountains"
                   />
+                  
                   <div className="px-6 py-4">
                     
                       <div className="font-bold text-xl mb-2 text-black underline decoration-indigo-500">
