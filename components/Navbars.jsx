@@ -9,7 +9,7 @@ export default function Navbars() {
     <Navbar fluid={true} rounded={true}>
       <Navbar.Brand href="/">
         <img
-          src="icon.png"
+          src="/icon.png"
           className="mr-3 h-6 sm:h-9"
           alt="icon"
         />
@@ -21,7 +21,7 @@ export default function Navbars() {
           Home
         </Navbar.Link>
         <Navbar.Link href="/projects">Projects</Navbar.Link>
-        <Navbar.Link href="/">Contacts</Navbar.Link>
+        {/* <Navbar.Link href="/">Contacts</Navbar.Link> */}
         
       </Navbar.Collapse>
     </Navbar>

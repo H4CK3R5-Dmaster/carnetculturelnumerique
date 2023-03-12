@@ -44,7 +44,7 @@ export default function ContainerBlock({ children, ...customMeta }) {
           rel="noopener noreferrer"
           className="text-white"
         >
-          Carnet Culturel Numérique
+          Carnet Culturel Numérique 2023,  Emma CARRAL
           
         </a>
       </footer>
