@@ -4,7 +4,7 @@ import BackgroundAnimation from "./BgAnim";
 
 export default function Present() {
     return (
-        <div className="flex flex-row justify-center items-start overflow-hidden">
+        <div className="flex flex-row justify-center items-start overflow-hidden mb-10">
         {/* Text container */}
   
         <div className="grid-cols-2">

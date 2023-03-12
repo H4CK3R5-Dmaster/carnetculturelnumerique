@@ -7,7 +7,7 @@ import { Navbar } from "flowbite-react";
 export default function Navbars() {
   return (
     <Navbar fluid={true} rounded={true}>
-      <Navbar.Brand href="https://flowbite.com/">
+      <Navbar.Brand href="/">
         <img
           src="icon.png"
           className="mr-3 h-6 sm:h-9"
@@ -20,7 +20,7 @@ export default function Navbars() {
         <Navbar.Link href="/">
           Home
         </Navbar.Link>
-        <Navbar.Link href="/">Projects</Navbar.Link>
+        <Navbar.Link href="/projects">Projects</Navbar.Link>
         <Navbar.Link href="/">Contacts</Navbar.Link>
         
       </Navbar.Collapse>
