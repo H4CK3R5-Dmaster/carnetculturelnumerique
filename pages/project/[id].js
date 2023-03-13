@@ -16,7 +16,7 @@ export default function GetProject() {
                 response.data.oeuvres.map((element) => {
                     if(element.id == id) {
                         setData(element)
-                        console.log(element)
+                        
                     }
                 })
             })
@@ -51,3 +51,5 @@ export default function GetProject() {
     </ContainerBlock>
   );
 }
+
+
