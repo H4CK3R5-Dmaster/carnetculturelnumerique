@@ -37,9 +37,10 @@ export default function Home() {
             />
           </div>
         </div>
-        <div className="flex flex-row justify-between mt-40 ml-5">
-          <div className="flex flex-row space-x-4 text-stone-50">
-            <h1 className="font-mono text-lg mt-20">{datatadao.question}<br/><br/>{datatadao.responser}</h1>
+        <div className="justify-between mt-40 ">
+          <div className="space-x-4 text-stone-50">
+            <h1 className="font-mono text-lg mt-20">{datatadao.question}</h1>
+            <p className="font-mono text-lg mt-5 mr-10">{datatadao.responser}</p>
             
           </div>
         </div>
