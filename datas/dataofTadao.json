@@ -1,5 +1,8 @@
 {
     "infos": [
-
+        {"question": "Qui est Tadao Ando ?", "responser":"Tadao Ando est un architecte japonais né le 13 septembre 1941 à Osaka. Sa carrière débuta après plusieurs voyages aux Etats-Unis donc en 1970 et bâti sa première création en 1971 au nom de Maison Tomishima à Osaka. Ses créations se retrouve aux 4 coins du monde (France, Allemagne, Japon, Italie, Etats-unis, Chine...). Ses oeuvres montrent qu'il travaille particulièrement avec le béton, lanature et les jeux de lumières en les harmonisant avec perfections et de façon artistique, il fut catégorisé comme faisant partie du style régionalisme critique et devint connu à l'échelle internationale. "}
+    ],
+    "perso" : [
+        {"question": "il y a quelques années, une personne de ma famille a visité le musée de “tadao ando”, qui se trouve Japon et m’en a ensuite parlé c’est comme ca qu’il m’a donné l’idée de choisir cet artiste pour ma présentation sur l’architecture du carnet culturel.", "avis":"cette expérience au départ me paraissait ennuyante a réaliser, mais apres avoir vraiment analyser les oeuvres de tadao ando cela donne une autre « vision du monde » d’apres ses oeuvre « nous vivons en coabitation avec la nature » c’est ce que cet architecte nous montre. Decouvrir l’architecture d’apres tadao ando m’a donc beaucoup plu."}
     ]
 }
