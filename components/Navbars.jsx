@@ -18,9 +18,9 @@ export default function Navbars() {
       <Navbar.Toggle />
       <Navbar.Collapse>
         <Navbar.Link href="/">
-          Home
+          Acceuil
         </Navbar.Link>
-        <Navbar.Link href="/projects">Projects</Navbar.Link>
+        <Navbar.Link href="/projects">Projets</Navbar.Link>
         {/* <Navbar.Link href="/">Contacts</Navbar.Link> */}
         
       </Navbar.Collapse>
