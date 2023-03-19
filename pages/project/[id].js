@@ -26,11 +26,11 @@ export default function GetProject() {
     <ContainerBlock>
       <Present />
       
-      <div className="justify-center  font-mono  lg:text-6xl  font-bold text-gray-500  md:my-0 md:text-white dark:text-gray-600 text-center mt-20 items-center content-center">
+      <div className="justify-center  font-mono  lg:text-6xl  font-bold text-white  md:my-0 md:text-white dark:text-gray-600 text-center mt-20 items-center content-center max-[400px]: text-white">
         {data ? (
             <>
                 
-                    <h1 className=" font-mono  lg:text-8xl  font-bold text-gray-500  md:my-0 md:text-white dark:text-gray-600 text-center mt-20 w-full">
+                    <h1 className=" font-mono  lg:text-8xl  font-bold text-white  md:my-0 md:text-white dark:text-gray-600 text-center mt-20 w-full">
                         {data.name}
                     </h1>
                     <div className="justify-center content-center">
