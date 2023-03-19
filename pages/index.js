@@ -30,11 +30,7 @@ export default function Home() {
       <div className="grid grid-cols-2 gap-1 mb-3 max-sm:grid-cols-1 min-[320px]:ml-5 mb-20 mx-auto">
         <div className="lg:block relative w-full md:w-1/2 mt-40 mx-auto">
           <div className="mx-auto">
-            <img
-              src={"/tadao.jpg"}
-              alt="avatar"
-              className=" shadow justify-center "
-            />
+            
           </div>
         </div>
         <div className="justify-between mt-40 ">
