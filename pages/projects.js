@@ -50,7 +50,7 @@ export default function Projects() {
             ))}
           </>
         ) : (
-          <div className="items-center ml-40 px-40 max-[400px]:ml-20">
+          <div className="items-center ml-40 px-40 max-[400px]:ml-20 min-[320px]:ml-5">
             <div role="status" className="ml-40 mt-5 px-40 items-center">
               <svg
                 className="inline mr-2 w-8 h-8 text-gray-200 animate-spin dark:text-gray-600 fill-purple-600 ml-40"
